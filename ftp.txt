@@ -1,0 +1,6 @@
+open 192.168.110.27 21
+SXCgt
+aaa.rega88
+binary
+put C\users
+quit
